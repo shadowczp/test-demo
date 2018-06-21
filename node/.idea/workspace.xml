@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a325a846-8dd9-4761-abac-a3808024beda" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../nio/nio.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../nio/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../nio/src/main/java/FileChannelTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../nio/src/main/java/NioClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../nio/src/main/java/NioServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../nio/src/main/java/NioTask.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../nio/src/main/java/ReactorTask.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../nio/src/main/resources/hh.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test1.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="57" column="3" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module.js" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/module.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="551" column="2" lean-forward="false" selection-start-line="551" selection-start-column="2" selection-end-line="551" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node-buffer-stub.js" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-buffer-stub.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+              <folding>
+                <marker date="1520276048000" expanded="true" signature="0:882" ph="/** The Buffer class is a global type for dealing with binary data directly. It can be constructed in a variety of ways: ...*/" />
+                <marker date="1520276048000" expanded="true" signature="914:917" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="919:1105" ph="/** @static ...*/" />
+                <marker date="1520276048000" expanded="true" signature="1145:1165" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="1168:1662" ph="/** @static ...*/" />
+                <marker date="1520276048000" expanded="true" signature="1710:1713" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="1716:2107" ph="/** Allocates a new Buffer of size bytes. If fill is undefined, the Buffer will be zero-filled. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="2154:2157" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="2160:2691" ph="/** Allocates a new Buffer of size bytes. If the size is larger than buffer.kMaxLength or smaller than 0, a RangeError will be thrown. A zero-length Buffer will be created if size is 0. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="2728:2731" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="2734:3560" ph="/** See Buffer.allowUnsafe. The difference is that when using Buffer.allocUnsafe() to allocate new Buffer instances, ...*/" />
+                <marker date="1520276048000" expanded="true" signature="3601:3604" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="3607:3869" ph="/** Compares buf1 to buf2 typically for the purpose of sorting arrays of Buffer instances. This is equivalent to calling buf1.compare(buf2). ...*/" />
+                <marker date="1520276048000" expanded="true" signature="3908:3911" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="3914:4923" ph="/** Writes &lt;i&gt;&lt;code&gt;string&lt;/code&gt;&lt;/i&gt; to the buffer at &lt;i&gt;&lt;code&gt;offset&lt;/code&gt;&lt;/i&gt; using the given encoding. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="4992:5009" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="5012:5394" ph="/** Decodes and returns a string from buffer data encoded with &lt;i&gt;&lt;code&gt;encoding&lt;/code&gt;&lt;/i&gt; beginning at &lt;i&gt;&lt;code&gt;start&lt;/code&gt;&lt;/i&gt; ...*/" />
+                <marker date="1520276048000" expanded="true" signature="5454:5472" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="5475:5764" ph="/** Returns a JSON-representation of the Buffer instance, which is identical to the output for JSON Arrays. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="5802:5821" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="5824:5958" ph="/** @static ...*/" />
+                <marker date="1520276048000" expanded="true" signature="5991:6011" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="6015:6353" ph="/** Gives the actual byte length of a string. This is not the same as ...*/" />
+                <marker date="1520276048000" expanded="true" signature="6401:6418" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="6421:7159" ph="/** Returns a buffer which is the result of concatenating all the buffers in the list together. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="7204:7224" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="7227:7506" ph="/** The size of the buffer in bytes. Note that this is not necessarily the size of the contents. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="7537:8046" ph="/** Does copy between buffers. The source and target regions can be overlapped. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="8131:8134" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="8137:8535" ph="/** Returns a new buffer which references the same memory as the old, but offset and cropped by the &lt;i&gt;&lt;code&gt;start&lt;/code&gt;&lt;/i&gt; ...*/" />
+                <marker date="1520276048000" expanded="true" signature="8582:8602" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="8605:8931" ph="/** Reads an unsigned 8 bit integer from the buffer at the specified offset. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="8988:9005" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="9008:9365" ph="/** Reads an unsigned 16 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="9425:9442" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="9445:9802" ph="/** Reads an unsigned 16 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="9862:9879" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="9882:10239" ph="/** Reads an unsigned 32 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="10299:10316" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="10319:10676" ph="/** Reads an unsigned 32 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="10736:10753" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="10756:11078" ph="/** Reads an signed 8 bit integer from the buffer at the specified offset. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="11134:11151" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="11154:11507" ph="/** Reads an signed 16 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="11566:11583" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="11586:11939" ph="/** Reads an signed 16 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="11998:12015" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="12018:12371" ph="/** Reads an signed 32 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="12430:12447" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="12450:12803" ph="/** Reads an signed 32 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="12862:12879" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="12882:13218" ph="/** Reads a 32 bit float from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="13277:13294" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="13297:13633" ph="/** Reads a 32 bit float from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="13692:13709" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="13712:14050" ph="/** Reads a 64 bit double from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="14110:14127" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="14130:14468" ph="/** Reads a 64 bit double from the buffer at the specified offset with specified endian format. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="14528:14545" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="14548:15181" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid unsigned 8 bit integer. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="15246:15249" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="15252:15916" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid unsigned 16 bit integer. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="15984:15987" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="15990:16654" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid unsigned 16 bit integer. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="16722:16725" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="16728:17392" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid unsigned 32 bit integer. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="17460:17463" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="17466:18130" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid unsigned 32 bit integer. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="18198:18201" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="18204:18833" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid signed 8 bit integer. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="18897:18900" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="18903:19563" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid signed 16 bit integer. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="19630:19633" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="19636:20296" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid signed 16 bit integer. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="20363:20366" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="20369:21029" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid signed 32 bit integer. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="21096:21099" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="21102:21762" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid signed 32 bit integer. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="21829:21832" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="21835:22491" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, behavior is unspecified if &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; is not a 32 bit float. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="22558:22561" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="22564:23220" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, behavior is unspecified if &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; is not a 32 bit float. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="23287:23290" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="23293:23951" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, behavior is unspecified if &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; is not a 64 bit double. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="24019:24022" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="24025:24683" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, behavior is unspecified if &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; is not a 64 bit double. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="24751:24754" ph="{...}" />
+                <marker date="1520276048000" expanded="true" signature="24758:25186" ph="/** Fills the buffer with the specified value. If the &lt;i&gt;&lt;code&gt;offset&lt;/code&gt;&lt;/i&gt; and &lt;i&gt;&lt;code&gt;end&lt;/code&gt;&lt;/i&gt; are not given it will fill the entire buffer. ...*/" />
+                <marker date="1520276048000" expanded="true" signature="25240:25243" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test1.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="738" />
+    <option name="width" value="589" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="node" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.test1.js">
+    <configuration name="node" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="test1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test1.js" working-dir="$PROJECT_DIR$" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.node" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.test1.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a325a846-8dd9-4761-abac-a3808024beda" name="Default" comment="" />
+      <created>1529547649773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529547649773</updated>
+      <workItem from="1529547651093" duration="13055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13055000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19568452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3420622" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24222586" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="102" column="7" lean-forward="true" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="1929" column="0" lean-forward="false" selection-start-line="1929" selection-start-column="0" selection-end-line="1929" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="362" column="4" lean-forward="false" selection-start-line="362" selection-start-column="4" selection-end-line="362" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/_http_server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="332" column="4" lean-forward="false" selection-start-line="332" selection-start-column="4" selection-end-line="332" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="78" column="2" lean-forward="false" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-buffer-stub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+          <folding>
+            <marker date="1520276048000" expanded="true" signature="0:882" ph="/** The Buffer class is a global type for dealing with binary data directly. It can be constructed in a variety of ways: ...*/" />
+            <marker date="1520276048000" expanded="true" signature="914:917" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="919:1105" ph="/** @static ...*/" />
+            <marker date="1520276048000" expanded="true" signature="1145:1165" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="1168:1662" ph="/** @static ...*/" />
+            <marker date="1520276048000" expanded="true" signature="1710:1713" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="1716:2107" ph="/** Allocates a new Buffer of size bytes. If fill is undefined, the Buffer will be zero-filled. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="2154:2157" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="2160:2691" ph="/** Allocates a new Buffer of size bytes. If the size is larger than buffer.kMaxLength or smaller than 0, a RangeError will be thrown. A zero-length Buffer will be created if size is 0. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="2728:2731" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="2734:3560" ph="/** See Buffer.allowUnsafe. The difference is that when using Buffer.allocUnsafe() to allocate new Buffer instances, ...*/" />
+            <marker date="1520276048000" expanded="true" signature="3601:3604" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="3607:3869" ph="/** Compares buf1 to buf2 typically for the purpose of sorting arrays of Buffer instances. This is equivalent to calling buf1.compare(buf2). ...*/" />
+            <marker date="1520276048000" expanded="true" signature="3908:3911" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="3914:4923" ph="/** Writes &lt;i&gt;&lt;code&gt;string&lt;/code&gt;&lt;/i&gt; to the buffer at &lt;i&gt;&lt;code&gt;offset&lt;/code&gt;&lt;/i&gt; using the given encoding. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="4992:5009" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="5012:5394" ph="/** Decodes and returns a string from buffer data encoded with &lt;i&gt;&lt;code&gt;encoding&lt;/code&gt;&lt;/i&gt; beginning at &lt;i&gt;&lt;code&gt;start&lt;/code&gt;&lt;/i&gt; ...*/" />
+            <marker date="1520276048000" expanded="true" signature="5454:5472" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="5475:5764" ph="/** Returns a JSON-representation of the Buffer instance, which is identical to the output for JSON Arrays. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="5802:5821" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="5824:5958" ph="/** @static ...*/" />
+            <marker date="1520276048000" expanded="true" signature="5991:6011" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="6015:6353" ph="/** Gives the actual byte length of a string. This is not the same as ...*/" />
+            <marker date="1520276048000" expanded="true" signature="6401:6418" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="6421:7159" ph="/** Returns a buffer which is the result of concatenating all the buffers in the list together. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="7204:7224" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="7227:7506" ph="/** The size of the buffer in bytes. Note that this is not necessarily the size of the contents. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="7537:8046" ph="/** Does copy between buffers. The source and target regions can be overlapped. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="8131:8134" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="8137:8535" ph="/** Returns a new buffer which references the same memory as the old, but offset and cropped by the &lt;i&gt;&lt;code&gt;start&lt;/code&gt;&lt;/i&gt; ...*/" />
+            <marker date="1520276048000" expanded="true" signature="8582:8602" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="8605:8931" ph="/** Reads an unsigned 8 bit integer from the buffer at the specified offset. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="8988:9005" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="9008:9365" ph="/** Reads an unsigned 16 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="9425:9442" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="9445:9802" ph="/** Reads an unsigned 16 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="9862:9879" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="9882:10239" ph="/** Reads an unsigned 32 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="10299:10316" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="10319:10676" ph="/** Reads an unsigned 32 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="10736:10753" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="10756:11078" ph="/** Reads an signed 8 bit integer from the buffer at the specified offset. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="11134:11151" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="11154:11507" ph="/** Reads an signed 16 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="11566:11583" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="11586:11939" ph="/** Reads an signed 16 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="11998:12015" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="12018:12371" ph="/** Reads an signed 32 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="12430:12447" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="12450:12803" ph="/** Reads an signed 32 bit integer from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="12862:12879" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="12882:13218" ph="/** Reads a 32 bit float from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="13277:13294" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="13297:13633" ph="/** Reads a 32 bit float from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="13692:13709" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="13712:14050" ph="/** Reads a 64 bit double from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="14110:14127" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="14130:14468" ph="/** Reads a 64 bit double from the buffer at the specified offset with specified endian format. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="14528:14545" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="14548:15181" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid unsigned 8 bit integer. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="15246:15249" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="15252:15916" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid unsigned 16 bit integer. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="15984:15987" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="15990:16654" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid unsigned 16 bit integer. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="16722:16725" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="16728:17392" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid unsigned 32 bit integer. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="17460:17463" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="17466:18130" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid unsigned 32 bit integer. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="18198:18201" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="18204:18833" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid signed 8 bit integer. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="18897:18900" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="18903:19563" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid signed 16 bit integer. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="19630:19633" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="19636:20296" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid signed 16 bit integer. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="20363:20366" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="20369:21029" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid signed 32 bit integer. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="21096:21099" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="21102:21762" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; must be a valid signed 32 bit integer. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="21829:21832" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="21835:22491" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, behavior is unspecified if &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; is not a 32 bit float. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="22558:22561" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="22564:23220" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, behavior is unspecified if &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; is not a 32 bit float. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="23287:23290" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="23293:23951" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, behavior is unspecified if &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; is not a 64 bit double. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="24019:24022" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="24025:24683" ph="/** Writes &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; to the buffer at the specified offset with specified endian format. Note, behavior is unspecified if &lt;i&gt;&lt;code&gt;value&lt;/code&gt;&lt;/i&gt; is not a 64 bit double. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="24751:24754" ph="{...}" />
+            <marker date="1520276048000" expanded="true" signature="24758:25186" ph="/** Fills the buffer with the specified value. If the &lt;i&gt;&lt;code&gt;offset&lt;/code&gt;&lt;/i&gt; and &lt;i&gt;&lt;code&gt;end&lt;/code&gt;&lt;/i&gt; are not given it will fill the entire buffer. ...*/" />
+            <marker date="1520276048000" expanded="true" signature="25240:25243" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="551" column="2" lean-forward="false" selection-start-line="551" selection-start-column="2" selection-end-line="551" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="57" column="3" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
