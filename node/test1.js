@@ -47,12 +47,23 @@ function getAllFileByPath(path) {
 // server.listen(3000);
 
 
-var WebSocketServer = require("ws").Server;
-var wss = new WebSocketServer({port:3004});
-wss.on('connection',function (ws) {
-    ws.on('message',function (msg) {
-        console.log("接收到："+msg);
-        ws.send("你发送的是："+msg);
-    })
+// var WebSocketServer = require("ws").Server;
+// var wss = new WebSocketServer({port:3004});
+// wss.on('connection',function (ws) {
+//     ws.on('message',function (msg) {
+//         console.log("接收到："+msg);
+//         ws.send("你发送的是："+msg);
+//     })
+//
+// });
 
+
+
+var stream = require("stream");
+var readStream = fs.createReadStream("C:\\Users\\czp51\\Desktop\\测试文件.txt","utf-8");
+readStream.on("data",function (data) {
+    console.log(data);
+});
+readStream.on("end",function () {
+    console.log("closed");
 });
