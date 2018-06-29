@@ -7,6 +7,7 @@ import Tagb from '@/components/Tagb'
 Vue.use(Router)
 
 export default new Router({
+  mode:'history',
   routes: [
     {
       path: '/',
@@ -14,7 +15,7 @@ export default new Router({
       component: HelloWorld
     },
     {
-      path: '/a',
+      path: '/a:id',
       name: 'Taga',
       component: Taga
     },

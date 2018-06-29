@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+  <button>试试</button>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
+<script>
+  Vue.component("my-app",{
+    template:"<input type=\"checkbox\">"
+  });
+  var app = new Vue({
+    el: '#app',
+    template: '<my-app/>'
+  });
+</script>
+</body>
+</html>
